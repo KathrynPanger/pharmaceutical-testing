@@ -18,7 +18,10 @@ This project uses artificial data from a hypothetical medical study examining th
 ```
 #Key Visualizations
 ![Most Promising Drugs](survival_by_drug_total.png)
+
 ![Survival Over Time Comparison](survival_by_drug_over_time.png)
+
 ![Mouse Weights on Capomulin](weights_on_Capomulin.png)
+
 ![Tumor Volume Regression](linear_regression_weight_tumorvol.png)
 
