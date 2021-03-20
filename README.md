@@ -21,7 +21,5 @@ This project uses artificial data from a hypothetical medical study examining th
 
 ![Survival Over Time Comparison](Plots/survival_by_drug_over_time.png)
 
-![Mouse Weights on Capomulin](Plots/weights_on_Capomulin.png)
-
 ![Tumor Volume Regression](Plots/linear_regression_weight_tumorvol.png)
 
